@@ -21,14 +21,6 @@ Non-parametric learning algorithm − KNN is also a non-parametric learning algo
 
 3.Determine the min and Max values for each columns and then split the dataset into k folds then calculate the Euclidean distance between two vectors and then print the accuracy of our model.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Program:
 ```python3
 Program to implement KNN classification algorithm.
